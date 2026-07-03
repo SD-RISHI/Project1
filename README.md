@@ -15,9 +15,9 @@ Objectives
 *Apply core web development concepts to build a real-time application
 
 Features:
-  ->WPM calculation|
-    Acuracy Percentage|
-    Restart option|
-    Correct Word validation|
+  ->WPM calculation | 
+    Acuracy Percentage | 
+    Restart option | 
+    Correct Word validation | 
     Random Word generation
 
