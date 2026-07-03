@@ -84,10 +84,11 @@ h1 {
 
 .wrong {
     color: red;
+    background-color: #ffe5e5;
 }
 
 .current {
-    background: #4e73df;
+    background-color: #4e73df;
     color: white;
     border-radius: 3px;
 }
